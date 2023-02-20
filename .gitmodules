@@ -1,0 +1,3 @@
+[submodule "git-submodule-prac"]
+	path = git-submodule-prac
+	url = git@github.com:sendkite/git-submodule-prac.git
